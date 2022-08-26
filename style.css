@@ -175,3 +175,7 @@ input{
         border-radius: 20px;
     }
 }
+.selected{
+    background-color:hsl(25, 97%, 53%);
+    color:white;
+}
